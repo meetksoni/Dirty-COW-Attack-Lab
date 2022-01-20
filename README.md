@@ -22,7 +22,7 @@ Also viewing the information in the /etc/passwd file using cat command.
 Dirty cow attack successful. 
 
 
-#Lab Appendix 
+# Lab Appendix 
 1.	Code for cow_attack.c file 
 #include <sys/mman.h>
 #include <fcntl.h>
